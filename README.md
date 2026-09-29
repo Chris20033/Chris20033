@@ -1,4 +1,4 @@
-# ¡Qué onda! Soy Christian 👋
+# ¡Hola! Soy Christian 👋
 
 Soy un desarrollador Full-Stack enfocado en crear aplicaciones web escalables y eficientes. Me gusta automatizar procesos, gestionar infraestructura y armar arquitecturas sólidas.
 
@@ -7,6 +7,7 @@ Soy un desarrollador Full-Stack enfocado en crear aplicaciones web escalables y 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
