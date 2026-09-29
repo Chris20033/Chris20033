@@ -37,12 +37,13 @@ Landing page y portafolio dinámico con un panel de administración (CMS) person
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+### ⚙️ ¿Cómo trabajo?
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chris20033&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris20033&layout=compact&langs_count=7&theme=dracula&v=1"/>
-</p>
+Me enfoco en el ciclo completo de desarrollo, desde la planeación hasta el servidor:
+
+- 📐 **Arquitectura:** Diseño de modelos Entidad-Relación y Spec-Driven Development documentado en **Obsidian**.
+- 💻 **Desarrollo:** Construcción de aplicaciones completas y APIs con **TypeScript**, **Node.js** y **React/Next.js**.
+- 🐳 **Infraestructura y Despliegue:** Contenerización con **Docker** y gestión de servidores **VPS** (Ubuntu) usando **Portainer**.
 
 ---
 
