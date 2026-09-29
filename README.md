@@ -33,7 +33,7 @@ Plataforma de gestión de operaciones.
 
 #### 🏗️ 075 Arquitectura
 Landing page y portafolio dinámico con un panel de administración (CMS) personalizado para la autogestión de proyectos.
-- 🌐 **[NextJS](https://github.com/Chris20033/075arquitectura-web)**
+- 🌐 **[Web / Api / Next.js](https://github.com/Chris20033/075arquitectura-web)**
 
 ---
 
